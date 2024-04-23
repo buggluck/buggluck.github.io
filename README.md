@@ -1,2 +1,2 @@
-# buggluc.github.io
+# buggluck.github.io
 mon portfolio
